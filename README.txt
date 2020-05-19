@@ -1,24 +1,18 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Portfolio Webpage
 
+Used a template html page found at html5up.net for overall design and layout.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+Altered code in index.html before creating repository to personalize design 
+to fit my needs for this page.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+No projects added when page created. Will add as they are completed. 
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
 
 
 Credits:
+
+	Page Layout:
+		Massively by HTML5 UP | @ajlkn | html5up.net/license
 
 	Demo Images:
 		Unsplash (unsplash.com)
